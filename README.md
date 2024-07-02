@@ -1,0 +1,2 @@
+# Inteligencia
+Clase practica
